@@ -1,0 +1,1 @@
+The solution is to use a debugging tool or print out the memory addresses to verify the pointers are correctly pointing to what you expect. In this particular example, the program is working as intended and printing out the updated value of x which is 20.
