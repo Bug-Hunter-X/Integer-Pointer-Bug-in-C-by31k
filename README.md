@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a common but easily overlooked bug involving integer pointers. The bug involves modifying an integer variable through a pointer, but the output is unexpected due to the nature of pointers.
